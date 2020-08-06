@@ -1,6 +1,6 @@
 If you are using this dataset in your research work, please kindly refer to the following paper:
  
-[1] Xuelin Shen, Zhangkai Ni, Wenhan Yang, Xinfeng Zhang, Shiqi Wang, and Sam Kwong. A JND DATASET BASED ON VVC COMPRESSED IMAGES, IEEE International Conference on Multimedia and Expo (ICME) 2019.
+[1] X. Shen, Z. Ni, W. Yang, X. Zhang, S. Wang and S. Kwong, "A JND Dataset Based on VVC Compressed Images," 2020 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), London, United Kingdom, 2020, pp. 1-6, doi: 10.1109/ICMEW46912.2020.9105955.
 
 The VVC based JND dataset contains 202 source images with resolution 1920*1080 and 39 compressed images for each source image with quantization parameter(QP) set ranging from 1 to 100 through VTM5.0 intra. The source/distorted images are classified into 4 sessions in the folder session#_Ori/session#_Dis, respectively.
 
