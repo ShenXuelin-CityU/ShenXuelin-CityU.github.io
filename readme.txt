@@ -4,7 +4,7 @@ If you are using this dataset in your research work, please kindly refer to the 
 
 The VVC based JND dataset contains 202 source images of 1920*1080 size. And for each source image, 39 compressed versions were generated through VTM5.0 intra with constrant frame QP ranging form 13 to 51.  The source/distorted images are classified into 4 sessions in the folder session#_Ori/session#_Dis, respectively.
 
-The JND point for each source image were scored by 20 volunteers, and were recorded under ''f_session#.mat'' file.  Each file contains a 50*20 or 51*20 size matrix, each row of the matrix represents the raw samples from certain subject for the whole session. 
+Each image set which contains a pristine image and 39 distorted versions was scored by 20 volunteers, and corresponding results were recorded under ''f_session#.mat'' file.  Each file contains a 50*20 or 51*20 size matrix, each row of the matrix represents the raw samples from certain subject for the whole session. 
 
 
 Download Link:
