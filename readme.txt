@@ -4,7 +4,7 @@ If you are using this dataset in your research work, please kindly refer to the 
 
 The VVC based JND dataset contains 202 source images with resolution 1920*1080 and 39 compressed images for each source image with quantization parameter(QP) set ranging from 1 to 100 through VTM5.0 intra. The source/distorted images are classified into 4 sessions in the folder session#_Ori/session#_Dis, respectively.
 
-Each source image and its distorted images (a session) were viewed by 20 volunteers, their JND samples for the 4 sessions were recorded under ''f_session#.mat'' file.  Each file contains a 50*20 or 51*20 matrix, each row of the matrix represent the  raw samples from certain subject for the whole session. 
+Each source image and its distorted images (a session) were viewed by 20 volunteers, their JND samples for the 4 sessions were recorded under ''f_session#.mat'' file.  Each file contains a 50*20 or 51*20 matrix, each row of the matrix represents the  raw samples from certain subject for the whole session. 
 
 
 Download Link:
@@ -22,3 +22,4 @@ Subjective testing data: https://pan.baidu.com/s/1r46xuwKpCSU2FYaazUvItw (Passwo
 
 Mega:
 Coming soon......
+
